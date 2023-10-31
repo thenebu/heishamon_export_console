@@ -27,8 +27,13 @@ Dieses Skript wurde speziell für die Webseite heishamon.local entwickelt. Um es
 
 ## Installation:
 
-1. [Tampermonkey Erweiterung für Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de) herunterladen und installieren.
-2. ![Neues Userskript erstellen](NeuesUserscript.png)
-3. Scriptcode reinkopieren
-4. Datei speichern (Strg + S)
-5. [http://heishamon.local/](http://heishamon.local/) aufrufen!
+1. Tampermonkey Erweiterung herunterladen und installieren:
+   
+   [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)
+   
+   [Firefox](https://addons.mozilla.org/de/firefox/addon/tampermonkey/)
+   
+3. ![Neues Userskript erstellen](NeuesUserscript.png)
+4. Scriptcode reinkopieren
+5. Datei speichern (Strg + S)
+6. [http://heishamon.local/](http://heishamon.local/) aufrufen!
