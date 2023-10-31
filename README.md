@@ -5,7 +5,8 @@ Das **Heishamon Export UserScript** ist ein Skript für Tampermonkey, das den Nu
 ## Funktionsweise:
 
 ### Initialisierung:
-Sobald die Webseite geladen wird, fügt das Skript zwei Buttons ("Export als CSV" und "Export TOP") zur Webseite hinzu.
+Sobald die Webseite http://heishamon.local/ geladen wird, fügt das Skript zwei Buttons ("Export als CSV" und "Export TOP") zur Webseite hinzu.
+Hinweis: Sollten Sie bei mDNS-Problemen auf Schwierigkeiten stoßen, können Sie das Userscript auch für eine direkte IP-Adresse aktivieren. Fügen Sie hierzu einfach einen weiteren `@match` Eintrag mit Ihrer bekannten IP-Adresse zum Skript hinzu, z.B. `// @match http://192.168.x.x/*`. Dadurch wird das Skript ebenfalls ausgeführt, wenn Sie über diese IP-Adresse zugreifen.
 
 ### Datenverarbeitung:
 Alle Daten, die über einen WebSocket empfangen werden, werden kontinuierlich in eine interne Variable (csvData) gespeichert.
