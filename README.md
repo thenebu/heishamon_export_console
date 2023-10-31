@@ -38,3 +38,6 @@ Dieses Skript wurde speziell für die Webseite heishamon.local entwickelt. Um es
 4. Scriptcode reinkopieren
 5. Datei speichern (Strg + S)
 6. [http://heishamon.local/](http://heishamon.local/) aufrufen!
+
+![Neue Oberfläche](HeishaExport.png)
+
